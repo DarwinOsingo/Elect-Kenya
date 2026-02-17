@@ -1,0 +1,26 @@
+{
+  "name": "elect-2027",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build",
+    "type-check": "turbo run type-check",
+    "lint": "turbo run lint",
+    "format": "prettier --write \"apps/**/*.{ts,tsx,js,jsx,json,md}\" \"packages/**/*.{ts,tsx,js,jsx,json,md}\"",
+    "clean": "turbo clean && rm -rf node_modules"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0",
+    "turbo": "^1.10.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "typescript": "^5.3.0"
+    }
+  }
+}

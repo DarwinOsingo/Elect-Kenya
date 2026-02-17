@@ -1,0 +1,1035 @@
+{
+  "probe_timestamp": "2026-02-17T19:46:15.710147",
+  "probe_version": "1.0",
+  "base_url": "https://www.parliament.go.ke",
+  "unknowns_resolved": {
+    "total_mps": 300,
+    "photo_source": "both_available",
+    "voting_records_location": "not_found_on_profile"
+  },
+  "pagination": {
+    "last_page_index": 29,
+    "total_pages": 30,
+    "per_page": 10,
+    "total_mp_links": 300,
+    "first_mp": {
+      "slug": "hon-dekow-barrow-mp",
+      "name": "Member Photo not available",
+      "url": "https://www.parliament.go.ke/the-national-assembly/hon-dekow-barrow-mp",
+      "photo_url": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk"
+    },
+    "last_mp": {
+      "slug": "hon-sergon-jematiah-flowrence",
+      "name": "HON. SERGON, JEMUTIAH FLORENCE",
+      "url": "https://www.parliament.go.ke/the-national-assembly/hon-sergon-jematiah-flowrence",
+      "photo_url": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20jematiah.jpg?itok=x6eUtIwG"
+    }
+  },
+  "field_coverage": {
+    "field--name-body": {
+      "present_count": 10,
+      "absent_count": 0,
+      "coverage_pct": 100.0,
+      "structure_types": {
+        "paragraphs": 10
+      },
+      "most_common_structure": "paragraphs"
+    },
+    "field--name-field-image": {
+      "present_count": 10,
+      "absent_count": 0,
+      "coverage_pct": 100.0,
+      "structure_types": {
+        "text_only": 10
+      },
+      "most_common_structure": "text_only"
+    },
+    "field--name-field-education-background": {
+      "present_count": 9,
+      "absent_count": 1,
+      "coverage_pct": 90.0,
+      "structure_types": {
+        "table": 9
+      },
+      "most_common_structure": "table"
+    },
+    "field--name-field-employment-history": {
+      "present_count": 9,
+      "absent_count": 1,
+      "coverage_pct": 90.0,
+      "structure_types": {
+        "table": 9
+      },
+      "most_common_structure": "table"
+    }
+  },
+  "table_analysis": [
+    {
+      "slug": "hon-rai-samuel-gonzi",
+      "name": "HON. RAI SAMUEL GONZI",
+      "has_tables": true,
+      "fields": {
+        "field--name-field-education-background": {
+          "present": true,
+          "is_table": true,
+          "row_count": 7,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification",
+            "1998",
+            "2002",
+            "University of Nairobi",
+            "Bachelor of Arts in Sociology",
+            "1982",
+            "1983",
+            "Kenya Polytechnic",
+            "Diploma in Business Administration",
+            "1981",
+            "1981",
+            "Pitman E.I London"
+          ],
+          "word_html_hits": 103,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        },
+        "field--name-field-employment-history": {
+          "present": true,
+          "is_table": true,
+          "row_count": 7,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification",
+            "1978",
+            "1987",
+            "",
+            "Office Manager",
+            "1988",
+            "1992",
+            "",
+            "Elected Councillor",
+            "1992",
+            "1997",
+            "PSC"
+          ],
+          "word_html_hits": 104,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        }
+      }
+    },
+    {
+      "slug": "hon-bady-bady-twalib-0",
+      "name": "HON. BADY BADY TWALIB",
+      "has_tables": true,
+      "fields": {
+        "field--name-field-education-background": {
+          "present": true,
+          "is_table": true,
+          "row_count": 6,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification",
+            "2014",
+            "2018",
+            "Mount Kenya University",
+            "Bachelor Of Business Management",
+            "2010",
+            "2012",
+            "KCA University",
+            "Certificate in County Management",
+            "2010",
+            "2012",
+            "International Republican Institute"
+          ],
+          "word_html_hits": 107,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        },
+        "field--name-field-employment-history": {
+          "present": true,
+          "is_table": true,
+          "row_count": 5,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Employer",
+            "Position held"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Employer",
+            "Position held",
+            "2013",
+            "Date",
+            "Kenya National Assembly",
+            "Jomvu Member Of Parliament",
+            "2008",
+            "2013",
+            "Mombasa Municipal Council",
+            "Civic Leader, Jomvu Kuu Ward",
+            "2006",
+            "Date",
+            "Tazib General Agencies"
+          ],
+          "word_html_hits": 90,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        }
+      }
+    },
+    {
+      "slug": "hon-saney-ibrahim-adbi",
+      "name": "HON. SANEY IBRAHIM ADBI",
+      "has_tables": true,
+      "fields": {
+        "field--name-field-education-background": {
+          "present": true,
+          "is_table": true,
+          "row_count": 7,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification",
+            "2018",
+            "-",
+            "University of Nairobi",
+            "Bachelor of Laws (pursuing)",
+            "2018",
+            "-",
+            "United States International University – Africa",
+            "Bachelor of Arts in Criminal Justice",
+            "1995",
+            "2005",
+            "Egerton University"
+          ],
+          "word_html_hits": 83,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "0in 5",
+            "0in 5",
+            "0in 0"
+          ],
+          "has_nested_spans": true
+        },
+        "field--name-field-employment-history": {
+          "present": true,
+          "is_table": true,
+          "row_count": 6,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Employer",
+            "Position held"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Employer",
+            "Position held",
+            "2013",
+            "2017",
+            "Parliamentary Service Commission",
+            "Member of Parliament",
+            "2011",
+            "2015",
+            "Wajir Community Radio",
+            "Director",
+            "2011",
+            "2013",
+            "Kulmiye Pastoral Association"
+          ],
+          "word_html_hits": 83,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        }
+      }
+    },
+    {
+      "slug": "hon-omwera-george-aladwa-1",
+      "name": "HON. OMWERA GEORGE ALADWA",
+      "has_tables": true,
+      "fields": {
+        "field--name-field-education-background": {
+          "present": true,
+          "is_table": true,
+          "row_count": 4,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification",
+            "",
+            "2020",
+            "Jaramogi Oginga Odinga University Of Science & Technology",
+            "Diploma In Business Administration",
+            "",
+            "2008",
+            "Church Army Secondary School",
+            "Kenya Certificate Of Secondary Education",
+            "1978",
+            "1985",
+            "Joseph Apudo Primary School"
+          ],
+          "word_html_hits": 71,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        },
+        "field--name-field-employment-history": {
+          "present": true,
+          "is_table": true,
+          "row_count": 3,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Committee",
+            "Position held"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Committee",
+            "Position held",
+            "2017",
+            "2022",
+            "Lands",
+            "Member",
+            "2021",
+            "2022",
+            "Transport, Public Works and Housing Committee",
+            "Member"
+          ],
+          "word_html_hits": 56,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        }
+      }
+    },
+    {
+      "slug": "hon-kihungi-peter-irungu",
+      "name": "HON. KIHUNGI PETER IRUNGU",
+      "has_tables": true,
+      "fields": {
+        "field--name-field-education-background": {
+          "present": true,
+          "is_table": true,
+          "row_count": 5,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Institution",
+            "Qualification",
+            "2014",
+            "2017",
+            "Pioneer International University",
+            "Diploma In Business Management",
+            "1997",
+            "2000",
+            "Maasai Technical Institute",
+            "Craft Certificate In Welding And Fabrication",
+            "1993",
+            "1996",
+            "Ichangaki Secondary School"
+          ],
+          "word_html_hits": 90,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        },
+        "field--name-field-employment-history": {
+          "present": true,
+          "is_table": true,
+          "row_count": 5,
+          "col_count": 4,
+          "header_cells": [
+            "From",
+            "To",
+            "Employer",
+            "Position held"
+          ],
+          "sample_cells": [
+            "From",
+            "To",
+            "Employer",
+            "Position held",
+            "2019",
+            "2022",
+            "Athi Water Company",
+            "Director Athi Water Works Development Agency",
+            "2013",
+            "2017",
+            "Murang’a County Assembly",
+            "Member Of County Assembly (Mca) And Leader Of Majority",
+            "2007",
+            "2013",
+            "Murang’a County Council"
+          ],
+          "word_html_hits": 90,
+          "word_patterns": [
+            "margin-left",
+            "border:solid",
+            "border:solid",
+            "0in 5",
+            "0in 5"
+          ],
+          "has_nested_spans": true
+        }
+      }
+    }
+  ],
+  "voting_records": {
+    "/the-national-assembly/votes-and-proceedings": {
+      "accessible": true,
+      "has_bill_numbers": false,
+      "has_vote_counts": false,
+      "has_mp_names": false,
+      "has_pdf_links": true,
+      "has_download_links": true,
+      "vote_link_count": 5,
+      "page_title": "404 Page | The Kenyan Parliament Website",
+      "recommendation": "probably_not_per_mp_data"
+    },
+    "/the-national-assembly/hansard": {
+      "accessible": true,
+      "has_bill_numbers": false,
+      "has_vote_counts": false,
+      "has_mp_names": false,
+      "has_pdf_links": true,
+      "has_download_links": true,
+      "vote_link_count": 5,
+      "page_title": "404 Page | The Kenyan Parliament Website",
+      "recommendation": "probably_not_per_mp_data"
+    },
+    "/the-national-assembly/bills": {
+      "accessible": true,
+      "has_bill_numbers": false,
+      "has_vote_counts": false,
+      "has_mp_names": false,
+      "has_pdf_links": true,
+      "has_download_links": true,
+      "vote_link_count": 5,
+      "page_title": "404 Page | The Kenyan Parliament Website",
+      "recommendation": "probably_not_per_mp_data"
+    },
+    "/the-national-assembly/committee-business": {
+      "accessible": true,
+      "has_bill_numbers": false,
+      "has_vote_counts": false,
+      "has_mp_names": false,
+      "has_pdf_links": true,
+      "has_download_links": true,
+      "vote_link_count": 5,
+      "page_title": "404 Page | The Kenyan Parliament Website",
+      "recommendation": "probably_not_per_mp_data"
+    },
+    "_sample_mp_profile": {
+      "url": "https://www.parliament.go.ke/the-national-assembly/hon-dekow-barrow-mp",
+      "has_vote_field": false,
+      "vote_related_text_snippet": []
+    }
+  },
+  "photo_source": {
+    "findings": [
+      {
+        "slug": "hon-rai-samuel-gonzi",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Rai.jpg?itok=DHipIyd3",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-bady-bady-twalib-0",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20bady.jpg?itok=tPWus7hW",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-saney-ibrahim-adbi",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Ibrahim%20Saney%20Abdi.jpg?itok=zREgQ-JD",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-omwera-george-aladwa-1",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_DSC_3680.jpg?itok=DmKMG6BV",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-kihungi-peter-irungu",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/cropped%20kangema.jpg?itok=O5YQtMiH",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-kemei-beatrice-chepngeno",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kericho.jpg?itok=KmKZ3gjx",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-joseph-wainaina-iraya",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/default_images/person-outline-icon-png-person-outline-icon-png-person-17.png?itok=Nbz0asMk",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-mohamed-mohamed-ali-0",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A0061.jpg?itok=46j2FYR8",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-karani-stephen-wachira",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Wachira%20Stephen%20Karani.jpg?itok=0IICeShX",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      },
+      {
+        "slug": "hon-naicca-johnson-manya-0",
+        "listing_photo": "https://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/NAICCA%20JOHNSON%20MANYA.jpg?itok=xOA8GYlF",
+        "profile_photos": [
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/ariel%20view%20-%20NA_7.jpg?itok=52zrFJDh",
+            "alt": "ariel view of the National Assembly",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001443422.jpg?itok=EInEc5sI",
+            "alt": "𝐇𝐀𝐕𝐄 𝐘𝐎𝐔𝐑 𝐒𝐀𝐘 𝐈𝐍 𝐊𝐄𝐍𝐘𝐀'𝐒 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐂 𝐅𝐔𝐓𝐔𝐑𝐄! ",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/Screenshot%202026-02-16%20134241.png?itok=tMh6IOvS",
+            "alt": "INVITATION TO SUBMIT MEMORANDA IN THE MATTER OF CONSIDERATION BY THE NATIONAL ASSEMBLY OF THE 2026 BUDGET POLICY STATEMENT AND THE MEDIUM-TERM DEBT MANAGEMENT STRATEGY FOR FY 2026/27 - 2028/29",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1000427796.jpg?itok=-Oso-gGn",
+            "alt": "Hon. Kimani Kuria",
+            "width": "990",
+            "height": "680"
+          },
+          {
+            "src": "/sites/default/files/styles/medium/public/articles/1001435248.jpg?itok=qxZg5CX0",
+            "alt": "𝐊𝐑𝐀 𝐅𝐋𝐀𝐆𝐒 𝐒𝐇𝟐𝟑.𝟏𝐁 𝐓𝐀𝐗 𝐂𝐋𝐀𝐈𝐌 𝐈𝐍 𝐓𝐔𝐋𝐋𝐎𝐖–𝐀𝐔𝐑𝐎𝐍 𝐃𝐄𝐀𝐋 ",
+            "width": "990",
+            "height": "680"
+          }
+        ],
+        "has_listing_photo": true,
+        "has_profile_photo": true
+      }
+    ],
+    "listing_photo_count": 10,
+    "profile_photo_count": 10,
+    "recommendation": "both_available"
+  },
+  "raw_mp_sample": [
+    {
+      "slug": "hon-rai-samuel-gonzi",
+      "name": "HON. RAI SAMUEL GONZI",
+      "h1_text": "HON. RAI SAMUEL GONZI",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    },
+    {
+      "slug": "hon-bady-bady-twalib-0",
+      "name": "HON. BADY BADY TWALIB",
+      "h1_text": "HON. BADY BADY TWALIB",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    },
+    {
+      "slug": "hon-saney-ibrahim-adbi",
+      "name": "HON. SANEY IBRAHIM ADBI",
+      "h1_text": "HON. SANEY IBRAHIM ADBI",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    },
+    {
+      "slug": "hon-omwera-george-aladwa-1",
+      "name": "HON. OMWERA GEORGE ALADWA",
+      "h1_text": "HON. OMWERA GEORGE ALDWA",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    },
+    {
+      "slug": "hon-kihungi-peter-irungu",
+      "name": "HON. KIHUNGI PETER IRUNGU",
+      "h1_text": "HON. KIHUNGI PETER IRUNGU",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    },
+    {
+      "slug": "hon-kemei-beatrice-chepngeno",
+      "name": "HON. KEMEI, BEATRICE CHEPNGENO",
+      "h1_text": "HON. KEMEI, BEATRICE CHEPNGENO",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    },
+    {
+      "slug": "hon-joseph-wainaina-iraya",
+      "name": "Member Photo not available",
+      "h1_text": "HON. JOSEPH WAINAINA IRAYA",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image"
+      ]
+    },
+    {
+      "slug": "hon-mohamed-mohamed-ali-0",
+      "name": "HON. MOHAMED MOHAMED ALI",
+      "h1_text": "HON. MOHAMED MOHAMED ALI",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    },
+    {
+      "slug": "hon-karani-stephen-wachira",
+      "name": "HON. KARANI STEPHEN WACHIRA",
+      "h1_text": "HON. KARANI STEPHEN WACHIRA",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    },
+    {
+      "slug": "hon-naicca-johnson-manya-0",
+      "name": "NAICCA JOHNSON MANYA",
+      "h1_text": "HON. NAICCA JOHNSON MANYA",
+      "fields_present": [
+        "field--name-body",
+        "field--name-field-image",
+        "field--name-field-education-background",
+        "field--name-field-employment-history"
+      ]
+    }
+  ],
+  "recommendations": [
+    "WARNING: No explicit party field found — may be in bio or page header. Check raw_mp_sample.",
+    "WARNING: No explicit constituency field — may need to extract from breadcrumb or h1.",
+    "Photo: Both listing and profile photos available — prefer profile for higher resolution.",
+    "Voting: No per-MP voting data found. Set voting_json=[] in schema; populate manually later.",
+    "Tables: 10 samples have Word-generated HTML. table_parser.py must strip Word styles before column detection."
+  ]
+}

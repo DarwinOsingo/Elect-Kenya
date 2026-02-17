@@ -1,0 +1,24 @@
+{
+  "$schema": "https://turbo.build/json-schema.json",
+  "version": "1",
+  "globalDependencies": ["**/.env"],
+  "globalEnv": ["CI"],
+  "pipeline": {
+    "dev": {
+      "cache": false,
+      "persistent": true
+    },
+    "build": {
+      "outputs": ["dist/**"],
+      "cache": true
+    },
+    "type-check": {
+      "outputs": [],
+      "cache": true
+    },
+    "lint": {
+      "outputs": [],
+      "cache": true
+    }
+  }
+}

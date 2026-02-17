@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: elect-db
+    environment:
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: elect_2027
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build: ./apps/backend
+    container_name: elect-backend
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://postgres:password@postgres:5432/elect_2027
+      CORS_ORIGINS: http://localhost:5173,http://localhost:3000
+      SQL_ECHO: "False"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ./apps/backend:/app
+
+  # Frontend runs locally with `pnpm dev` to use Vite HMR
+  # To include in Docker, build the image:
+  # frontend:
+  #   build: ./apps/frontend
+  #   container_name: elect-frontend
+  #   ports:
+  #     - "5173:5173"
+
+volumes:
+  postgres_data:

@@ -1,0 +1,5145 @@
+{
+  "scraped_at": "2026-02-08T11:39:32.174510",
+  "total_mps": 395,
+  "mps": [
+    {
+      "name": "Hon. Abdi Ali Abdi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abdi_Ali_Abdi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dr Gichuki Edwin Mugo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dr_Gichuki_Edwin_Mugo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Amb Langat Benjamin Kipkirui",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Amb_Langat_Benjamin_Kipkirui_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dr Onchoke Charles Mamwacha",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dr_Onchoke_Charles_Mamwacha_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mejjadonk Benjamin Gathiru",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mejjadonk_Benjamin_Gathiru_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dr Mutunga John Kanyuithia",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dr_Mutunga_John_Kanyuithia_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Eng Nzambia Kithua Thuddeus",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Eng_Nzambia_Kithua_Thuddeus_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dr Jackson Kipkemoi Kosgei",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dr_Jackson_Kipkemoi_Kosgei_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dekow Barrow",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dekow_Barrow_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dr Pukose Robert",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dr_Pukose_Robert_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Abdirahman Mohamed Abdi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abdirahman_Mohamed_Abdi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Abdi Yusuf Hassan",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abdi_Yusuf_Hassan_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Abdirahman Hussein Weytan Mohamed",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abdirahman_Hussein_Weytan_Mohamed_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Abuor Paul 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abuor_Paul_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Abubakar Talib Ahmed",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abubakar_Talib_Ahmed_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Aburi Lawrence",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Aburi_Lawrence_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Abdullahi Amina Dika",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abdullahi_Amina_Dika_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Aburi Donya Dorice",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Aburi_Donya_Dorice_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Abdi Khamis Chome",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abdi_Khamis_Chome_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Abdullaih Bashir Sheikh",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Abdullaih_Bashir_Sheikh_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ahmed Shakeel Ahmed Shabbir",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ahmed_Shakeel_Ahmed_Shabbir_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Alio Ahmed Maalim Hassan",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Alio_Ahmed_Maalim_Hassan_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Amollo Paul Otiende",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Amollo_Paul_Otiende_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Adagala Beatrice Kahai",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Adagala_Beatrice_Kahai_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Alfah Ondieki Miruka",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Alfah_Ondieki_Miruka_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Arama Samuel",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Arama_Samuel_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Akujah Protus Ewesit",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Akujah_Protus_Ewesit_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Adow Aden Mohammed",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Adow_Aden_Mohammed_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ali Abdisirat Khalif",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ali_Abdisirat_Khalif_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Adhe Wario Guyo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Adhe_Wario_Guyo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ariko John Namoit",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ariko_John_Namoit_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Bady Bady Twalib 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Bady_Bady_Twalib_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Babu Owino Paul Ongili",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Babu_Owino_Paul_Ongili_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Barasa Patrick Simiyu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Barasa_Patrick_Simiyu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Barongo Nolfason Obadiah",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Barongo_Nolfason_Obadiah_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Bartoo Phylis Jepkemoi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Bartoo_Phylis_Jepkemoi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Atandi Samuel Onunga",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Atandi_Samuel_Onunga_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Basil Robert Ngui",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Basil_Robert_Ngui_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Barre Hussein Abdi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Barre_Hussein_Abdi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Baya Owen Yaa",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Baya_Owen_Yaa_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Bowen David Kangogo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Bowen_David_Kangogo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Busia Ruth Adhiambo Odinga",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Busia_Ruth_Adhiambo_Odinga_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Bisau Maurice Kakai",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Bisau_Maurice_Kakai_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Bwire John Okano",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Bwire_John_Okano_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Bonaya Mumina Gollo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Bonaya_Mumina_Gollo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Buyu Rozaah Akinyi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Buyu_Rozaah_Akinyi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Bedzimba Rashid Juma",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Bedzimba_Rashid_Juma_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chebor Paul Kibet",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chebor_Paul_Kibet_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Biego Paul Kibichiy",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Biego_Paul_Kibichiy_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Boss Gladys Jepkosgei",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Boss_Gladys_Jepkosgei_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chege John Kiragu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chege_John_Kiragu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chege Njuguna",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chege_Njuguna_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chepkorir Linet",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chepkorir_Linet_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chege Sabina Wanjiru",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chege_Sabina_Wanjiru_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chelule Liza Chepkorir",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chelule_Liza_Chepkorir_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chiforomodo Mangale Munga",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chiforomodo_Mangale_Munga_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chepkwony Charity Kathambi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chepkwony_Charity_Kathambi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chepkonga Samuel Kiprono",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chepkonga_Samuel_Kiprono_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chesebe Fred Kapondi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chesebe_Fred_Kapondi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Cherorot Joseph Kimutai",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Cherorot_Joseph_Kimutai_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dawood Abdul Rahim",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dawood_Abdul_Rahim_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Farah Salah Yakub",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Farah_Salah_Yakub_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Cpa Rutto Julius Kipletting",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Cpa_Rutto_Julius_Kipletting_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gachagua George",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gachagua_George_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dr Chikati John Murumba",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dr_Chikati_John_Murumba_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Farah Yussuf Mohamed",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Farah_Yussuf_Mohamed_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Chumel Moroto Samwel",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Chumel_Moroto_Samwel_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Elachi Beatrice Kadeveresia",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Elachi_Beatrice_Kadeveresia_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Denar Joseph Hamisi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Denar_Joseph_Hamisi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Eric Wamumbi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Eric_Wamumbi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gachobe Samuel Kinuthia",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gachobe_Samuel_Kinuthia_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gimose Charles Gumini",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gimose_Charles_Gumini_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kimaiyo Gideon",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kimaiyo_Gideon_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gikaria David",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gikaria_David_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gitau Faith Wairimu 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gitau_Faith_Wairimu_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Githinji Robert Gichimu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Githinji_Robert_Gichimu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gakuya James Mwangi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gakuya_James_Mwangi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gitari Joseph Gachoki",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gitari_Joseph_Gachoki_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gogo Lilian Achieng",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gogo_Lilian_Achieng_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Gisairo Clive Ombane",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Gisairo_Clive_Ombane_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Guyo Ali Wario",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Guyo_Ali_Wario_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Hiribae Said Buya",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Hiribae_Said_Buya_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ichungwah Antony Kimani",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ichungwah_Antony_Kimani_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Jehow Fatuma Abdi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Jehow_Fatuma_Abdi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ikiara Dorothy Muthoni",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ikiara_Dorothy_Muthoni_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ikana Fredrick Lusuli",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ikana_Fredrick_Lusuli_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ithinji Shadrack Mwiti",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ithinji_Shadrack_Mwiti_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Hamisi Kakuta Maimai",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Hamisi_Kakuta_Maimai_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Haro Abdul Ebrahim",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Haro_Abdul_Ebrahim_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Jaldesa Guyo Waqo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Jaldesa_Guyo_Waqo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kaguchia John Philip Gichohi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kaguchia_John_Philip_Gichohi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kajwang Francis Tom Joseph",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kajwang_Francis_Tom_Joseph_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Joseph Wainaina Iraya",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Joseph_Wainaina_Iraya_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Jhanda Zaheer",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Jhanda_Zaheer_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kagesi Ernest Ogesi Kivai",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kagesi_Ernest_Ogesi_Kivai_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kagombe Gabriel Gathuka",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kagombe_Gabriel_Gathuka_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kailemia Elizabeth Karambu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kailemia_Elizabeth_Karambu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kahangara Joseph Mburu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kahangara_Joseph_Mburu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kagiri Jane Wangechi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kagiri_Jane_Wangechi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Junet Sheikh Nuh Mohamed",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Junet_Sheikh_Nuh_Mohamed_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Karauri Ronald Kamwiko",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Karauri_Ronald_Kamwiko_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Karani Stephen Wachira",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Karani_Stephen_Wachira_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kamket Kassait William",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kamket_Kassait_William_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Karemba Eric Muchangin",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Karemba_Eric_Muchangin_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kariuki George Macharia",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kariuki_George_Macharia_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kanchory Elijah Memusi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kanchory_Elijah_Memusi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kamuren Charles 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kamuren_Charles_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kaluma George Peter Opondo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kaluma_George_Peter_Opondo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kandie Joshua Chepyegon",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kandie_Joshua_Chepyegon_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kamene Joyce",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kamene_Joyce_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kemei Beatrice Chepngeno",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kemei_Beatrice_Chepngeno_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kemei Justice Kipsang",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kemei_Justice_Kipsang_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Khamisi Mboko Mishi Juma",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Khamisi_Mboko_Mishi_Juma_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Khodhe Phelix Odiwuor",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Khodhe_Phelix_Odiwuor_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kiamba Suzanne Ndunge",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kiamba_Suzanne_Ndunge_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Keynan Wehliye Adan",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Keynan_Wehliye_Adan_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kaunya Edward Oku",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kaunya_Edward_Oku_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kasalu Irene Muthoni",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kasalu_Irene_Muthoni_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Katana Paul Kahindi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Katana_Paul_Kahindi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kasiwai Rael Kasiwai",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kasiwai_Rael_Kasiwai_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kibagendi Antoney",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kibagendi_Antoney_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kilel Richard Cheruiyot",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kilel_Richard_Cheruiyot_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kihara Jayne Nw",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kihara_Jayne_Nw_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kingola Patrick Makau",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kingola_Patrick_Makau_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kiplagat David",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kiplagat_David_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kimilu Joshua Kivinda",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kimilu_Joshua_Kivinda_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kihungi Peter Irungu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kihungi_Peter_Irungu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kingara Simon Nganga",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kingara_Simon_Nganga_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kipkoros Joseph Makilap",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kipkoros_Joseph_Makilap_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kiaraho David Njuguna",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kiaraho_David_Njuguna_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Koech Nelson",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Koech_Nelson_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kitur Bernard Kibor",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kitur_Bernard_Kibor_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Koech Kipngetich Victor",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Koech_Kipngetich_Victor_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kipyegon Johana Ngeno",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kipyegon_Johana_Ngeno_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kiunjuri Mwangi Festus",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kiunjuri_Mwangi_Festus_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kombe Harrison Garama",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kombe_Harrison_Garama_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kitany Marianne",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kitany_Marianne_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kiti Richard Ken Chonga",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kiti_Richard_Ken_Chonga_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kirima Moses Nguchine",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kirima_Moses_Nguchine_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kirwa Abraham Kipsang",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kirwa_Abraham_Kipsang_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Korere Sarah Paulata",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Korere_Sarah_Paulata_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Koyi John Waluke",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Koyi_John_Waluke_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kuno Amina Udgoon Siyad",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kuno_Amina_Udgoon_Siyad_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kuno Yakub Adow",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kuno_Yakub_Adow_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kosgei Hilary Kiplangat 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kosgei_Hilary_Kiplangat_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lekuton Joseph",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lekuton_Joseph_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Kururia Elijah Njore Njoroge",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Kururia_Elijah_Njore_Njoroge_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lelmengit Josses Kiptoo Kosgey",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lelmengit_Josses_Kiptoo_Kosgey_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Korir Adams Kipsanai",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Korir_Adams_Kipsanai_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Komingoi Kibet Kirui",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Komingoi_Kibet_Kirui_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lotee Titus",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lotee_Titus_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lenguris Pauline",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lenguris_Pauline_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lomwa Joseph Samal",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lomwa_Joseph_Samal_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lesuuda Naisula",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lesuuda_Naisula_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Maalim Farah",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Maalim_Farah_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lochakapong Peter",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lochakapong_Peter_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lemanken Aramat",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lemanken_Aramat_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Lentoijoni Jackson Lekumontare",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Lentoijoni_Jackson_Lekumontare_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Luyai Caleb Amisi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Luyai_Caleb_Amisi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Letipila Dominic Eli",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Letipila_Dominic_Eli_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Maingi Mary",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Maingi_Mary_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Maina Jane Njeri",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Maina_Jane_Njeri_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Maina Betty Njeri",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Maina_Betty_Njeri_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Makali John Okwisia",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Makali_John_Okwisia_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Machele Mohamed Soud",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Machele_Mohamed_Soud_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Manduku Daniel Ogwoka",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Manduku_Daniel_Ogwoka_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Marubu Muthoni Monicah",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Marubu_Muthoni_Monicah_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Masara Peter Francis 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Masara_Peter_Francis_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Maisori Marwa Kemero Kitayama",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Maisori_Marwa_Kemero_Kitayama_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Majimbo Joseph Kalasinga 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Majimbo_Joseph_Kalasinga_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mboni David Mwalika",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mboni_David_Mwalika_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mawathe Julius Musili",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mawathe_Julius_Musili_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mbui Robert",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mbui_Robert_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mbai Nimrod Mbithuka 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mbai_Nimrod_Mbithuka_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Masito Fatuma Hamisi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Masito_Fatuma_Hamisi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mayaka Irene Nyakerario",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mayaka_Irene_Nyakerario_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mizighi Lydia Haika",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mizighi_Lydia_Haika_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mbalu Jessica Nduku Kiko",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mbalu_Jessica_Nduku_Kiko_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Melly Julius Kipbiwott",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Melly_Julius_Kipbiwott_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mathenge Duncan Maina",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mathenge_Duncan_Maina_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mohammed Fatuma Zainab",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mohammed_Fatuma_Zainab_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mohamed Abdikadir Hussein",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mohamed_Abdikadir_Hussein_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Momanyi Jerusha Mongina",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Momanyi_Jerusha_Mongina_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mnyazi Amina Laura",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mnyazi_Amina_Laura_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mohamed Mohamed Ali 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mohamed_Mohamed_Ali_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mohammed Zamzam Chimba",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mohammed_Zamzam_Chimba_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mohamed Aden Daudi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mohamed_Aden_Daudi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mrembo Irene Njoki",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mrembo_Irene_Njoki_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mogaka Stephen",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mogaka_Stephen_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mohamed Umulkher Harun",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mohamed_Umulkher_Harun_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mule Stephen Mutinda",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mule_Stephen_Mutinda_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muchira Michael Mwangi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muchira_Michael_Mwangi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muhia Wanjiku",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muhia_Wanjiku_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mulanya Ekesa Geoffrey",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mulanya_Ekesa_Geoffrey_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muge Cynthia Jepkosgei",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muge_Cynthia_Jepkosgei_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mukhwana Titus Khamala",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mukhwana_Titus_Khamala_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mukunji John Gitonga Mwaniki",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mukunji_John_Gitonga_Mwaniki_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mule Caleb Mutiso",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mule_Caleb_Mutiso_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mugabe Innocent Maino 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mugabe_Innocent_Maino_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muhanda Elsie Busihile",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muhanda_Elsie_Busihile_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mupe Anthony Kenga",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mupe_Anthony_Kenga_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mumo Rose Museo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mumo_Rose_Museo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mulu Makali",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mulu_Makali_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muratha Anne Wanjiku Mugo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muratha_Anne_Wanjiku_Mugo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mulyungi Gideon Mutemi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mulyungi_Gideon_Mutemi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Murugara George Gitonga",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Murugara_George_Gitonga_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muriuki Nebart Bernard",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muriuki_Nebart_Bernard_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muli Fabian Kyule",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muli_Fabian_Kyule_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Munyoro Joseph Kamau",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Munyoro_Joseph_Kamau_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muriu Wakili Edward",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muriu_Wakili_Edward_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwafrika Augustine Kamande",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwafrika_Augustine_Kamande_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwale Nicholas Scott Tindi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwale_Nicholas_Scott_Tindi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Muthama Stanley Muiruri",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Muthama_Stanley_Muiruri_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mutua Didmus Wekesa Barasa 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mutua_Didmus_Wekesa_Barasa_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Musau Vincent Musyoka",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Musau_Vincent_Musyoka_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mutai Kipronoh Alfred",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mutai_Kipronoh_Alfred_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwago Amos Maina",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwago_Amos_Maina_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwalyo Joshua Mbithi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwalyo_Joshua_Mbithi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mutuse Eckomas Mwengi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mutuse_Eckomas_Mwengi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwakuwona Danson Mwashako",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwakuwona_Danson_Mwashako_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwirigi John Paul",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwirigi_John_Paul_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwangi Teresia Wanjiru",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwangi_Teresia_Wanjiru_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nabii Nabwera Daraja",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nabii_Nabwera_Daraja_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nabulindo Peter Oscar",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nabulindo_Peter_Oscar_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Namuar Joseph Emathe",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Namuar_Joseph_Emathe_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwenje Mark Samuel Muriithi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwenje_Mark_Samuel_Muriithi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwanyanje Gertrude Mbeyu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwanyanje_Gertrude_Mbeyu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Mwangi Geoffrey Wandeto",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Mwangi_Geoffrey_Wandeto_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nabuin Paul Ekwom",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nabuin_Paul_Ekwom_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Naicca Johnson Manya 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Naicca_Johnson_Manya_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ndakwa David Athman",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ndakwa_David_Athman_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ngitit Cecilia Asinyen",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ngitit_Cecilia_Asinyen_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nduyo Susan Ngugi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nduyo_Susan_Ngugi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nanok Daniel Epuyo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nanok_Daniel_Epuyo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nganga Alice Wambui",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nganga_Alice_Wambui_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nguna Ngusya Charles",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nguna_Ngusya_Charles_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nguro Onesmus Ngogoyo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nguro_Onesmus_Ngogoyo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ndungu George Koimburi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ndungu_George_Koimburi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ngelechei Caroline Jeptoo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ngelechei_Caroline_Jeptoo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ngikolong Nicholas Ngikor Nixon",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ngikolong_Nicholas_Ngikor_Nixon_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Njoroge Mary Wamaua Waithira",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Njoroge_Mary_Wamaua_Waithira_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nyakundi Japheth Mokaya",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nyakundi_Japheth_Mokaya_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Njeru Pamela Njoki",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Njeru_Pamela_Njoki_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ntutu Kitilai Ole",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ntutu_Kitilai_Ole_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nyamoko Joash Nyamache 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nyamoko_Joash_Nyamache_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ntwiga Patrick Munene",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ntwiga_Patrick_Munene_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Njeru Leo Wa Muthende",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Njeru_Leo_Wa_Muthende_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nyenze Edith Vethi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nyenze_Edith_Vethi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nyamai Rachael Kaki 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nyamai_Rachael_Kaki_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nyamita Mark Ogolla 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nyamita_Mark_Ogolla_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nzioka Erastus Kivasu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nzioka_Erastus_Kivasu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ochieng David Ouma",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ochieng_David_Ouma_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Obo Ruweida Mohamed",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Obo_Ruweida_Mohamed_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nyoro Samson Ndindi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nyoro_Samson_Ndindi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nyikal Wambura James",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nyikal_Wambura_James_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Nzengu Paul Musyimi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Nzengu_Paul_Musyimi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Obara Eve Akinyi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Obara_Eve_Akinyi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Odege Tom Mboya 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Odege_Tom_Mboya_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Odanga Geoffrey Makokha 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Odanga_Geoffrey_Makokha_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Obiri Innocent Momanyi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Obiri_Innocent_Momanyi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Omboko Milemba",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Omboko_Milemba_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Oluoch Anthony Tom 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Oluoch_Anthony_Tom_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Okello Jared Odoyo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Okello_Jared_Odoyo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Omondi Caroli",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Omondi_Caroli_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Okuome Adipo Andrew",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Okuome_Adipo_Andrew_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Odhiambo Millie Grace Akoth 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Odhiambo_Millie_Grace_Akoth_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Omanyo Catherine Nakhabi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Omanyo_Catherine_Nakhabi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Odhiambo Elisha Ochieng 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Odhiambo_Elisha_Ochieng_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ombaka Oduor Christine",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ombaka_Oduor_Christine_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dr Ogolla Gideon Ochanda",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dr_Ogolla_Gideon_Ochanda_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Omondi Moses Okoth",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Omondi_Moses_Okoth_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Osogo Joyce Atieno Bensuda",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Osogo_Joyce_Atieno_Bensuda_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Orero Peter Ochieng",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Orero_Peter_Ochieng_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Osero Patrick",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Osero_Patrick_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Ongondo Boyd Were",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Ongondo_Boyd_Were_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Oron Joshua Odongo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Oron_Joshua_Odongo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Onyiego Silvanus Osoro 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Onyiego_Silvanus_Osoro_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Otucho Mary Emaase",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Otucho_Mary_Emaase_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Omwera George Aladwa 1",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Omwera_George_Aladwa_1_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Dr Oundo Wilberforce Ojiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Dr_Oundo_Wilberforce_Ojiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Oyoo James Onyango 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Oyoo_James_Onyango_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Oyugi Dick Maungu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Oyugi_Dick_Maungu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Owino Martin Peters 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Owino_Martin_Peters_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Oyula Joseph H Maero 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Oyula_Joseph_H_Maero_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Owuor Joshua Aduma 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Owuor_Joshua_Aduma_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Parashina Samuel Sakimba",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Parashina_Samuel_Sakimba_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Pkosing David Losiakou 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Pkosing_David_Losiakou_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Owino John Walter 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Owino_John_Walter_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Pareyio Mantaine Agnes",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Pareyio_Mantaine_Agnes_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Passaris Esther Muthoni",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Passaris_Esther_Muthoni_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sergon Jematiah Flowrence",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sergon_Jematiah_Flowrence_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Saney Ibrahim Adbi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Saney_Ibrahim_Adbi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sankaire Leah Sopiato",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sankaire_Leah_Sopiato_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Robi Mathias Nyamabe 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Robi_Mathias_Nyamabe_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Reuben Kiborek",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Reuben_Kiborek_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Rai Samuel Gonzi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Rai_Samuel_Gonzi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Raso Dido Ali 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Raso_Dido_Ali_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Salasya Peter Kalerwa",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Salasya_Peter_Kalerwa_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Salim Feisal Abdallah Bader",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Salim_Feisal_Abdallah_Bader_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Rasso Col Rtd Dido Ali",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Rasso_Col_Rtd_Dido_Ali_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Shimbwa Omar Mwinyi 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Shimbwa_Omar_Mwinyi_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sheikh Umul Ker Kassim",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sheikh_Umul_Ker_Kassim_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sitati Daniel Wanyama 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sitati_Daniel_Wanyama_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Shinali Bernard Masaka",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Shinali_Bernard_Masaka_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sigei Francis Kipyegon Arap",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sigei_Francis_Kipyegon_Arap_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Shurie Abdi Omar 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Shurie_Abdi_Omar_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sirma Musa Cherutich",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sirma_Musa_Cherutich_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sitienei Janet Jepkemboi 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sitienei_Janet_Jepkemboi_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Siyoi Lillian Chebet",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Siyoi_Lillian_Chebet_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Shake Mbogho Peter",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Shake_Mbogho_Peter_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Tongoyo Gabriel Koshal 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Tongoyo_Gabriel_Koshal_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Tonkei Rebecca Noonaishi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Tonkei_Rebecca_Noonaishi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Thuku Zachary Kwenya 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Thuku_Zachary_Kwenya_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sloya Clement Logova",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sloya_Clement_Logova_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Suleka Hulbale Harun",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Suleka_Hulbale_Harun_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sunkuli Julius Lekakeny",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sunkuli_Julius_Lekakeny_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sudi Oscar Kipchumba 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sudi_Oscar_Kipchumba_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Sunkuyia George Risa 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Sunkuyia_George_Risa_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Taitumu Julius Manaiba",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Taitumu_Julius_Manaiba_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Tandaza Kassim Sawa 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Tandaza_Kassim_Sawa_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wachira Rahab Mukami 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wachira_Rahab_Mukami_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wamacukuru James Githua Kamau 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wamacukuru_James_Githua_Kamau_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Toroitich Timothy Kipchumba",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Toroitich_Timothy_Kipchumba_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Tungule Charo Kenneth Kazungu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Tungule_Charo_Kenneth_Kazungu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wambilianga Catherine Nanjala 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wambilianga_Catherine_Nanjala_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Waithaka John Machua",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Waithaka_John_Machua_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wamboka Wanami Jack Nelson",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wamboka_Wanami_Jack_Nelson_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wainaina Anthony Njoroge",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wainaina_Anthony_Njoroge_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Tonui Joseph Kipkosgei",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Tonui_Joseph_Kipkosgei_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wainaina Michael Wambugu",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wainaina_Michael_Wambugu_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wanyonyi Martin Pepela",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wanyonyi_Martin_Pepela_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Waqo Naomi Jillo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Waqo_Naomi_Jillo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wanjala Raphael Bitta Sauti 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wanjala_Raphael_Bitta_Sauti_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wanjira Martha Wangari 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wanjira_Martha_Wangari_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wangaya Christopher Aseka 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wangaya_Christopher_Aseka_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wanjiku John Njuguna 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wanjiku_John_Njuguna_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wangwe Emmanuel 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wangwe_Emmanuel_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Waweru John Kiarie 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Waweru_John_Kiarie_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wamuchomba Gathoni 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wamuchomba_Gathoni_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wanyonyi Kevin Ferdinand",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wanyonyi_Kevin_Ferdinand_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Yegon Brighton Leonard",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Yegon_Brighton_Leonard_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Wetangula Timothy Wanyonyi 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Wetangula_Timothy_Wanyonyi_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Yussuf Adan Haji 0",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Yussuf_Adan_Haji_0_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Yegon Richard Kipkemoi",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Yegon_Richard_Kipkemoi_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    },
+    {
+      "name": "Hon. Millie Odhiambo",
+      "county": "",
+      "constituency": "",
+      "party": "",
+      "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+    }
+  ],
+  "by_county": {
+    "Unknown": [
+      {
+        "name": "Hon. Abdi Ali Abdi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abdi_Ali_Abdi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dr Gichuki Edwin Mugo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dr_Gichuki_Edwin_Mugo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Amb Langat Benjamin Kipkirui",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Amb_Langat_Benjamin_Kipkirui_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dr Onchoke Charles Mamwacha",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dr_Onchoke_Charles_Mamwacha_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mejjadonk Benjamin Gathiru",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mejjadonk_Benjamin_Gathiru_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dr Mutunga John Kanyuithia",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dr_Mutunga_John_Kanyuithia_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Eng Nzambia Kithua Thuddeus",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Eng_Nzambia_Kithua_Thuddeus_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dr Jackson Kipkemoi Kosgei",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dr_Jackson_Kipkemoi_Kosgei_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dekow Barrow",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dekow_Barrow_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dr Pukose Robert",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dr_Pukose_Robert_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Abdirahman Mohamed Abdi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abdirahman_Mohamed_Abdi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Abdi Yusuf Hassan",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abdi_Yusuf_Hassan_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Abdirahman Hussein Weytan Mohamed",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abdirahman_Hussein_Weytan_Mohamed_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Abuor Paul 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abuor_Paul_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Abubakar Talib Ahmed",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abubakar_Talib_Ahmed_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Aburi Lawrence",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Aburi_Lawrence_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Abdullahi Amina Dika",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abdullahi_Amina_Dika_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Aburi Donya Dorice",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Aburi_Donya_Dorice_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Abdi Khamis Chome",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abdi_Khamis_Chome_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Abdullaih Bashir Sheikh",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Abdullaih_Bashir_Sheikh_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ahmed Shakeel Ahmed Shabbir",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ahmed_Shakeel_Ahmed_Shabbir_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Alio Ahmed Maalim Hassan",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Alio_Ahmed_Maalim_Hassan_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Amollo Paul Otiende",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Amollo_Paul_Otiende_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Adagala Beatrice Kahai",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Adagala_Beatrice_Kahai_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Alfah Ondieki Miruka",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Alfah_Ondieki_Miruka_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Arama Samuel",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Arama_Samuel_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Akujah Protus Ewesit",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Akujah_Protus_Ewesit_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Adow Aden Mohammed",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Adow_Aden_Mohammed_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ali Abdisirat Khalif",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ali_Abdisirat_Khalif_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Adhe Wario Guyo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Adhe_Wario_Guyo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ariko John Namoit",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ariko_John_Namoit_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Bady Bady Twalib 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Bady_Bady_Twalib_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Babu Owino Paul Ongili",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Babu_Owino_Paul_Ongili_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Barasa Patrick Simiyu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Barasa_Patrick_Simiyu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Barongo Nolfason Obadiah",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Barongo_Nolfason_Obadiah_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Bartoo Phylis Jepkemoi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Bartoo_Phylis_Jepkemoi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Atandi Samuel Onunga",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Atandi_Samuel_Onunga_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Basil Robert Ngui",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Basil_Robert_Ngui_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Barre Hussein Abdi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Barre_Hussein_Abdi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Baya Owen Yaa",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Baya_Owen_Yaa_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Bowen David Kangogo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Bowen_David_Kangogo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Busia Ruth Adhiambo Odinga",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Busia_Ruth_Adhiambo_Odinga_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Bisau Maurice Kakai",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Bisau_Maurice_Kakai_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Bwire John Okano",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Bwire_John_Okano_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Bonaya Mumina Gollo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Bonaya_Mumina_Gollo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Buyu Rozaah Akinyi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Buyu_Rozaah_Akinyi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Bedzimba Rashid Juma",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Bedzimba_Rashid_Juma_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chebor Paul Kibet",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chebor_Paul_Kibet_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Biego Paul Kibichiy",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Biego_Paul_Kibichiy_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Boss Gladys Jepkosgei",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Boss_Gladys_Jepkosgei_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chege John Kiragu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chege_John_Kiragu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chege Njuguna",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chege_Njuguna_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chepkorir Linet",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chepkorir_Linet_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chege Sabina Wanjiru",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chege_Sabina_Wanjiru_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chelule Liza Chepkorir",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chelule_Liza_Chepkorir_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chiforomodo Mangale Munga",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chiforomodo_Mangale_Munga_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chepkwony Charity Kathambi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chepkwony_Charity_Kathambi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chepkonga Samuel Kiprono",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chepkonga_Samuel_Kiprono_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chesebe Fred Kapondi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chesebe_Fred_Kapondi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Cherorot Joseph Kimutai",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Cherorot_Joseph_Kimutai_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dawood Abdul Rahim",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dawood_Abdul_Rahim_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Farah Salah Yakub",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Farah_Salah_Yakub_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Cpa Rutto Julius Kipletting",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Cpa_Rutto_Julius_Kipletting_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gachagua George",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gachagua_George_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dr Chikati John Murumba",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dr_Chikati_John_Murumba_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Farah Yussuf Mohamed",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Farah_Yussuf_Mohamed_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Chumel Moroto Samwel",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Chumel_Moroto_Samwel_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Elachi Beatrice Kadeveresia",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Elachi_Beatrice_Kadeveresia_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Denar Joseph Hamisi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Denar_Joseph_Hamisi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Eric Wamumbi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Eric_Wamumbi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gachobe Samuel Kinuthia",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gachobe_Samuel_Kinuthia_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gimose Charles Gumini",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gimose_Charles_Gumini_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kimaiyo Gideon",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kimaiyo_Gideon_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gikaria David",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gikaria_David_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gitau Faith Wairimu 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gitau_Faith_Wairimu_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Githinji Robert Gichimu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Githinji_Robert_Gichimu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gakuya James Mwangi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gakuya_James_Mwangi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gitari Joseph Gachoki",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gitari_Joseph_Gachoki_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gogo Lilian Achieng",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gogo_Lilian_Achieng_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Gisairo Clive Ombane",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Gisairo_Clive_Ombane_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Guyo Ali Wario",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Guyo_Ali_Wario_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Hiribae Said Buya",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Hiribae_Said_Buya_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ichungwah Antony Kimani",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ichungwah_Antony_Kimani_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Jehow Fatuma Abdi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Jehow_Fatuma_Abdi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ikiara Dorothy Muthoni",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ikiara_Dorothy_Muthoni_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ikana Fredrick Lusuli",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ikana_Fredrick_Lusuli_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ithinji Shadrack Mwiti",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ithinji_Shadrack_Mwiti_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Hamisi Kakuta Maimai",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Hamisi_Kakuta_Maimai_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Haro Abdul Ebrahim",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Haro_Abdul_Ebrahim_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Jaldesa Guyo Waqo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Jaldesa_Guyo_Waqo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kaguchia John Philip Gichohi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kaguchia_John_Philip_Gichohi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kajwang Francis Tom Joseph",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kajwang_Francis_Tom_Joseph_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Joseph Wainaina Iraya",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Joseph_Wainaina_Iraya_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Jhanda Zaheer",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Jhanda_Zaheer_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kagesi Ernest Ogesi Kivai",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kagesi_Ernest_Ogesi_Kivai_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kagombe Gabriel Gathuka",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kagombe_Gabriel_Gathuka_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kailemia Elizabeth Karambu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kailemia_Elizabeth_Karambu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kahangara Joseph Mburu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kahangara_Joseph_Mburu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kagiri Jane Wangechi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kagiri_Jane_Wangechi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Junet Sheikh Nuh Mohamed",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Junet_Sheikh_Nuh_Mohamed_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Karauri Ronald Kamwiko",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Karauri_Ronald_Kamwiko_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Karani Stephen Wachira",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Karani_Stephen_Wachira_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kamket Kassait William",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kamket_Kassait_William_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Karemba Eric Muchangin",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Karemba_Eric_Muchangin_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kariuki George Macharia",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kariuki_George_Macharia_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kanchory Elijah Memusi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kanchory_Elijah_Memusi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kamuren Charles 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kamuren_Charles_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kaluma George Peter Opondo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kaluma_George_Peter_Opondo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kandie Joshua Chepyegon",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kandie_Joshua_Chepyegon_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kamene Joyce",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kamene_Joyce_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kemei Beatrice Chepngeno",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kemei_Beatrice_Chepngeno_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kemei Justice Kipsang",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kemei_Justice_Kipsang_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Khamisi Mboko Mishi Juma",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Khamisi_Mboko_Mishi_Juma_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Khodhe Phelix Odiwuor",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Khodhe_Phelix_Odiwuor_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kiamba Suzanne Ndunge",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kiamba_Suzanne_Ndunge_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Keynan Wehliye Adan",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Keynan_Wehliye_Adan_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kaunya Edward Oku",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kaunya_Edward_Oku_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kasalu Irene Muthoni",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kasalu_Irene_Muthoni_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Katana Paul Kahindi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Katana_Paul_Kahindi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kasiwai Rael Kasiwai",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kasiwai_Rael_Kasiwai_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kibagendi Antoney",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kibagendi_Antoney_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kilel Richard Cheruiyot",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kilel_Richard_Cheruiyot_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kihara Jayne Nw",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kihara_Jayne_Nw_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kingola Patrick Makau",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kingola_Patrick_Makau_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kiplagat David",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kiplagat_David_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kimilu Joshua Kivinda",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kimilu_Joshua_Kivinda_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kihungi Peter Irungu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kihungi_Peter_Irungu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kingara Simon Nganga",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kingara_Simon_Nganga_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kipkoros Joseph Makilap",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kipkoros_Joseph_Makilap_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kiaraho David Njuguna",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kiaraho_David_Njuguna_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Koech Nelson",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Koech_Nelson_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kitur Bernard Kibor",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kitur_Bernard_Kibor_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Koech Kipngetich Victor",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Koech_Kipngetich_Victor_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kipyegon Johana Ngeno",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kipyegon_Johana_Ngeno_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kiunjuri Mwangi Festus",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kiunjuri_Mwangi_Festus_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kombe Harrison Garama",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kombe_Harrison_Garama_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kitany Marianne",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kitany_Marianne_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kiti Richard Ken Chonga",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kiti_Richard_Ken_Chonga_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kirima Moses Nguchine",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kirima_Moses_Nguchine_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kirwa Abraham Kipsang",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kirwa_Abraham_Kipsang_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Korere Sarah Paulata",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Korere_Sarah_Paulata_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Koyi John Waluke",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Koyi_John_Waluke_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kuno Amina Udgoon Siyad",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kuno_Amina_Udgoon_Siyad_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kuno Yakub Adow",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kuno_Yakub_Adow_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kosgei Hilary Kiplangat 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kosgei_Hilary_Kiplangat_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lekuton Joseph",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lekuton_Joseph_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Kururia Elijah Njore Njoroge",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Kururia_Elijah_Njore_Njoroge_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lelmengit Josses Kiptoo Kosgey",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lelmengit_Josses_Kiptoo_Kosgey_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Korir Adams Kipsanai",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Korir_Adams_Kipsanai_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Komingoi Kibet Kirui",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Komingoi_Kibet_Kirui_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lotee Titus",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lotee_Titus_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lenguris Pauline",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lenguris_Pauline_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lomwa Joseph Samal",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lomwa_Joseph_Samal_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lesuuda Naisula",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lesuuda_Naisula_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Maalim Farah",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Maalim_Farah_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lochakapong Peter",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lochakapong_Peter_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lemanken Aramat",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lemanken_Aramat_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Lentoijoni Jackson Lekumontare",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Lentoijoni_Jackson_Lekumontare_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Luyai Caleb Amisi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Luyai_Caleb_Amisi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Letipila Dominic Eli",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Letipila_Dominic_Eli_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Maingi Mary",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Maingi_Mary_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Maina Jane Njeri",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Maina_Jane_Njeri_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Maina Betty Njeri",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Maina_Betty_Njeri_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Makali John Okwisia",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Makali_John_Okwisia_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Machele Mohamed Soud",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Machele_Mohamed_Soud_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Manduku Daniel Ogwoka",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Manduku_Daniel_Ogwoka_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Marubu Muthoni Monicah",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Marubu_Muthoni_Monicah_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Masara Peter Francis 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Masara_Peter_Francis_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Maisori Marwa Kemero Kitayama",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Maisori_Marwa_Kemero_Kitayama_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Majimbo Joseph Kalasinga 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Majimbo_Joseph_Kalasinga_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mboni David Mwalika",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mboni_David_Mwalika_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mawathe Julius Musili",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mawathe_Julius_Musili_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mbui Robert",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mbui_Robert_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mbai Nimrod Mbithuka 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mbai_Nimrod_Mbithuka_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Masito Fatuma Hamisi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Masito_Fatuma_Hamisi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mayaka Irene Nyakerario",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mayaka_Irene_Nyakerario_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mizighi Lydia Haika",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mizighi_Lydia_Haika_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mbalu Jessica Nduku Kiko",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mbalu_Jessica_Nduku_Kiko_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Melly Julius Kipbiwott",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Melly_Julius_Kipbiwott_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mathenge Duncan Maina",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mathenge_Duncan_Maina_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mohammed Fatuma Zainab",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mohammed_Fatuma_Zainab_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mohamed Abdikadir Hussein",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mohamed_Abdikadir_Hussein_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Momanyi Jerusha Mongina",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Momanyi_Jerusha_Mongina_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mnyazi Amina Laura",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mnyazi_Amina_Laura_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mohamed Mohamed Ali 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mohamed_Mohamed_Ali_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mohammed Zamzam Chimba",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mohammed_Zamzam_Chimba_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mohamed Aden Daudi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mohamed_Aden_Daudi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mrembo Irene Njoki",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mrembo_Irene_Njoki_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mogaka Stephen",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mogaka_Stephen_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mohamed Umulkher Harun",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mohamed_Umulkher_Harun_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mule Stephen Mutinda",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mule_Stephen_Mutinda_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muchira Michael Mwangi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muchira_Michael_Mwangi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muhia Wanjiku",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muhia_Wanjiku_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mulanya Ekesa Geoffrey",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mulanya_Ekesa_Geoffrey_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muge Cynthia Jepkosgei",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muge_Cynthia_Jepkosgei_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mukhwana Titus Khamala",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mukhwana_Titus_Khamala_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mukunji John Gitonga Mwaniki",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mukunji_John_Gitonga_Mwaniki_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mule Caleb Mutiso",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mule_Caleb_Mutiso_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mugabe Innocent Maino 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mugabe_Innocent_Maino_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muhanda Elsie Busihile",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muhanda_Elsie_Busihile_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mupe Anthony Kenga",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mupe_Anthony_Kenga_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mumo Rose Museo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mumo_Rose_Museo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mulu Makali",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mulu_Makali_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muratha Anne Wanjiku Mugo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muratha_Anne_Wanjiku_Mugo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mulyungi Gideon Mutemi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mulyungi_Gideon_Mutemi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Murugara George Gitonga",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Murugara_George_Gitonga_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muriuki Nebart Bernard",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muriuki_Nebart_Bernard_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muli Fabian Kyule",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muli_Fabian_Kyule_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Munyoro Joseph Kamau",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Munyoro_Joseph_Kamau_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muriu Wakili Edward",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muriu_Wakili_Edward_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwafrika Augustine Kamande",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwafrika_Augustine_Kamande_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwale Nicholas Scott Tindi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwale_Nicholas_Scott_Tindi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Muthama Stanley Muiruri",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Muthama_Stanley_Muiruri_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mutua Didmus Wekesa Barasa 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mutua_Didmus_Wekesa_Barasa_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Musau Vincent Musyoka",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Musau_Vincent_Musyoka_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mutai Kipronoh Alfred",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mutai_Kipronoh_Alfred_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwago Amos Maina",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwago_Amos_Maina_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwalyo Joshua Mbithi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwalyo_Joshua_Mbithi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mutuse Eckomas Mwengi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mutuse_Eckomas_Mwengi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwakuwona Danson Mwashako",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwakuwona_Danson_Mwashako_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwirigi John Paul",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwirigi_John_Paul_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwangi Teresia Wanjiru",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwangi_Teresia_Wanjiru_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nabii Nabwera Daraja",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nabii_Nabwera_Daraja_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nabulindo Peter Oscar",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nabulindo_Peter_Oscar_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Namuar Joseph Emathe",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Namuar_Joseph_Emathe_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwenje Mark Samuel Muriithi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwenje_Mark_Samuel_Muriithi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwanyanje Gertrude Mbeyu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwanyanje_Gertrude_Mbeyu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Mwangi Geoffrey Wandeto",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Mwangi_Geoffrey_Wandeto_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nabuin Paul Ekwom",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nabuin_Paul_Ekwom_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Naicca Johnson Manya 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Naicca_Johnson_Manya_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ndakwa David Athman",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ndakwa_David_Athman_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ngitit Cecilia Asinyen",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ngitit_Cecilia_Asinyen_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nduyo Susan Ngugi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nduyo_Susan_Ngugi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nanok Daniel Epuyo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nanok_Daniel_Epuyo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nganga Alice Wambui",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nganga_Alice_Wambui_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nguna Ngusya Charles",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nguna_Ngusya_Charles_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nguro Onesmus Ngogoyo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nguro_Onesmus_Ngogoyo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ndungu George Koimburi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ndungu_George_Koimburi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ngelechei Caroline Jeptoo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ngelechei_Caroline_Jeptoo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ngikolong Nicholas Ngikor Nixon",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ngikolong_Nicholas_Ngikor_Nixon_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Njoroge Mary Wamaua Waithira",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Njoroge_Mary_Wamaua_Waithira_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nyakundi Japheth Mokaya",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nyakundi_Japheth_Mokaya_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Njeru Pamela Njoki",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Njeru_Pamela_Njoki_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ntutu Kitilai Ole",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ntutu_Kitilai_Ole_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nyamoko Joash Nyamache 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nyamoko_Joash_Nyamache_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ntwiga Patrick Munene",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ntwiga_Patrick_Munene_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Njeru Leo Wa Muthende",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Njeru_Leo_Wa_Muthende_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nyenze Edith Vethi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nyenze_Edith_Vethi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nyamai Rachael Kaki 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nyamai_Rachael_Kaki_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nyamita Mark Ogolla 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nyamita_Mark_Ogolla_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nzioka Erastus Kivasu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nzioka_Erastus_Kivasu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ochieng David Ouma",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ochieng_David_Ouma_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Obo Ruweida Mohamed",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Obo_Ruweida_Mohamed_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nyoro Samson Ndindi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nyoro_Samson_Ndindi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nyikal Wambura James",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nyikal_Wambura_James_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Nzengu Paul Musyimi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Nzengu_Paul_Musyimi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Obara Eve Akinyi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Obara_Eve_Akinyi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Odege Tom Mboya 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Odege_Tom_Mboya_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Odanga Geoffrey Makokha 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Odanga_Geoffrey_Makokha_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Obiri Innocent Momanyi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Obiri_Innocent_Momanyi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Omboko Milemba",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Omboko_Milemba_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Oluoch Anthony Tom 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Oluoch_Anthony_Tom_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Okello Jared Odoyo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Okello_Jared_Odoyo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Omondi Caroli",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Omondi_Caroli_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Okuome Adipo Andrew",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Okuome_Adipo_Andrew_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Odhiambo Millie Grace Akoth 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Odhiambo_Millie_Grace_Akoth_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Omanyo Catherine Nakhabi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Omanyo_Catherine_Nakhabi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Odhiambo Elisha Ochieng 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Odhiambo_Elisha_Ochieng_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ombaka Oduor Christine",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ombaka_Oduor_Christine_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dr Ogolla Gideon Ochanda",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dr_Ogolla_Gideon_Ochanda_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Omondi Moses Okoth",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Omondi_Moses_Okoth_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Osogo Joyce Atieno Bensuda",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Osogo_Joyce_Atieno_Bensuda_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Orero Peter Ochieng",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Orero_Peter_Ochieng_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Osero Patrick",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Osero_Patrick_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Ongondo Boyd Were",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Ongondo_Boyd_Were_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Oron Joshua Odongo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Oron_Joshua_Odongo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Onyiego Silvanus Osoro 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Onyiego_Silvanus_Osoro_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Otucho Mary Emaase",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Otucho_Mary_Emaase_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Omwera George Aladwa 1",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Omwera_George_Aladwa_1_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Dr Oundo Wilberforce Ojiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Dr_Oundo_Wilberforce_Ojiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Oyoo James Onyango 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Oyoo_James_Onyango_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Oyugi Dick Maungu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Oyugi_Dick_Maungu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Owino Martin Peters 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Owino_Martin_Peters_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Oyula Joseph H Maero 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Oyula_Joseph_H_Maero_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Owuor Joshua Aduma 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Owuor_Joshua_Aduma_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Parashina Samuel Sakimba",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Parashina_Samuel_Sakimba_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Pkosing David Losiakou 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Pkosing_David_Losiakou_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Owino John Walter 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Owino_John_Walter_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Pareyio Mantaine Agnes",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Pareyio_Mantaine_Agnes_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Passaris Esther Muthoni",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Passaris_Esther_Muthoni_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sergon Jematiah Flowrence",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sergon_Jematiah_Flowrence_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Saney Ibrahim Adbi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Saney_Ibrahim_Adbi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sankaire Leah Sopiato",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sankaire_Leah_Sopiato_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Robi Mathias Nyamabe 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Robi_Mathias_Nyamabe_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Reuben Kiborek",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Reuben_Kiborek_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Rai Samuel Gonzi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Rai_Samuel_Gonzi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Raso Dido Ali 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Raso_Dido_Ali_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Salasya Peter Kalerwa",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Salasya_Peter_Kalerwa_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Salim Feisal Abdallah Bader",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Salim_Feisal_Abdallah_Bader_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Rasso Col Rtd Dido Ali",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Rasso_Col_Rtd_Dido_Ali_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Shimbwa Omar Mwinyi 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Shimbwa_Omar_Mwinyi_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sheikh Umul Ker Kassim",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sheikh_Umul_Ker_Kassim_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sitati Daniel Wanyama 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sitati_Daniel_Wanyama_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Shinali Bernard Masaka",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Shinali_Bernard_Masaka_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sigei Francis Kipyegon Arap",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sigei_Francis_Kipyegon_Arap_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Shurie Abdi Omar 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Shurie_Abdi_Omar_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sirma Musa Cherutich",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sirma_Musa_Cherutich_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sitienei Janet Jepkemboi 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sitienei_Janet_Jepkemboi_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Siyoi Lillian Chebet",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Siyoi_Lillian_Chebet_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Shake Mbogho Peter",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Shake_Mbogho_Peter_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Tongoyo Gabriel Koshal 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Tongoyo_Gabriel_Koshal_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Tonkei Rebecca Noonaishi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Tonkei_Rebecca_Noonaishi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Thuku Zachary Kwenya 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Thuku_Zachary_Kwenya_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sloya Clement Logova",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sloya_Clement_Logova_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Suleka Hulbale Harun",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Suleka_Hulbale_Harun_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sunkuli Julius Lekakeny",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sunkuli_Julius_Lekakeny_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sudi Oscar Kipchumba 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sudi_Oscar_Kipchumba_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Sunkuyia George Risa 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Sunkuyia_George_Risa_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Taitumu Julius Manaiba",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Taitumu_Julius_Manaiba_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Tandaza Kassim Sawa 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Tandaza_Kassim_Sawa_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wachira Rahab Mukami 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wachira_Rahab_Mukami_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wamacukuru James Githua Kamau 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wamacukuru_James_Githua_Kamau_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Toroitich Timothy Kipchumba",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Toroitich_Timothy_Kipchumba_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Tungule Charo Kenneth Kazungu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Tungule_Charo_Kenneth_Kazungu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wambilianga Catherine Nanjala 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wambilianga_Catherine_Nanjala_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Waithaka John Machua",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Waithaka_John_Machua_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wamboka Wanami Jack Nelson",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wamboka_Wanami_Jack_Nelson_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wainaina Anthony Njoroge",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wainaina_Anthony_Njoroge_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Tonui Joseph Kipkosgei",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Tonui_Joseph_Kipkosgei_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wainaina Michael Wambugu",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wainaina_Michael_Wambugu_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wanyonyi Martin Pepela",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wanyonyi_Martin_Pepela_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Waqo Naomi Jillo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Waqo_Naomi_Jillo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wanjala Raphael Bitta Sauti 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wanjala_Raphael_Bitta_Sauti_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wanjira Martha Wangari 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wanjira_Martha_Wangari_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wangaya Christopher Aseka 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wangaya_Christopher_Aseka_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wanjiku John Njuguna 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wanjiku_John_Njuguna_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wangwe Emmanuel 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wangwe_Emmanuel_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Waweru John Kiarie 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Waweru_John_Kiarie_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wamuchomba Gathoni 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wamuchomba_Gathoni_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wanyonyi Kevin Ferdinand",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wanyonyi_Kevin_Ferdinand_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Yegon Brighton Leonard",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Yegon_Brighton_Leonard_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Wetangula Timothy Wanyonyi 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Wetangula_Timothy_Wanyonyi_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Yussuf Adan Haji 0",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Yussuf_Adan_Haji_0_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Yegon Richard Kipkemoi",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Yegon_Richard_Kipkemoi_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      },
+      {
+        "name": "Hon. Millie Odhiambo",
+        "constituency": "",
+        "party": "",
+        "wiki_title": "Millie_Odhiambo_(Kenyan_politician)"
+      }
+    ]
+  }
+}
